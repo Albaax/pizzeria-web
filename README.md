@@ -11,5 +11,5 @@ On this project I used only HTML5, CSS3 and JavaScript.
 - VERCEL : https://github.com/Albaax/pizzeria-web.git
 
 <h4>Considerations:</h4>
-<ṕ>I'm thankful to Bonieky Lacerda for the adquired knowledge on this process.</p> 
+<p>I'm thankful to Bonieky Lacerda for the adquired knowledge on this process.</p> 
 <p>If you have any doubts or tips, please contact me.</p>
